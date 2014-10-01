@@ -1,4 +1,4 @@
-windninja-mobil
-===============
+windninja-mobile
+================
 
 Mobile application for WindNinja
